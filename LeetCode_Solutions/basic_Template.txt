@@ -1,0 +1,12 @@
+/*
+🔹 Problem Title: <Title Here>
+🔗 LeetCode Link: https://leetcode.com/problems/<slug>/
+🧠 Approach: <Brief description of method used>
+⏱️ Time Complexity: O(...)
+📦 Space Complexity: O(...)
+*/
+
+class Solution {
+public:
+    // Your solution code here
+};
